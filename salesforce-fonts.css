@@ -68,7 +68,7 @@
   }
   @font-face {
     font-family: 'ITC Avant Garde';
-    src: url('https://developer.salesforce.com/assets/fonts/ITCAvantGardePro-Demi.woff2') format('woff2'), url('https://developer.salesforce.com/assets/fonts/ITCAvantGardePro-Dem.woff') format('woff');
+    src: url('https://rmead-sfmc.github.io/code/ITCAvantGardePro-Demi.woff2') format('woff2'), url('https://rmead-sfmc.github.io/code/ITCAvantGardePro-Demi.woff') format('woff');
     font-weight: 600;
     font-display: swap
   }
