@@ -9,7 +9,7 @@
     } else {
         expires = "";
     }
-    document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/";
+    document.cookie = name + "=" + value + expires + "; path=/";
 }
 
 function readCookie(name) {
